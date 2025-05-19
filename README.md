@@ -8,7 +8,6 @@
 - [Demo Video](#demo-video)
 - [The Problem](#the-problem)
 - [The Solution](#the-solution)
-- [Cohort Information](#cohort-information)
 - [Volunteer with Us](#volunteer-with-us)
 - [About Us](#about-us)
 - [Documentation](#documentation)
@@ -48,31 +47,6 @@ Governments and organizations today face a significant challenge: understanding 
 - **Real-Time Insights**: Feedback is instantly processed and analyzed, allowing governments to act quickly on citizen needs.
 - **Scalable & Inclusive**: This approach enables large-scale feedback collection, reaching even the most remote communities in their local languages, ensuring their voices are heard.
 
----
-
-## Cohort Information
-
-**JKB** launched its first experimental cohort, partnering with **12 organizations** and **8 technology platforms**. This pilot tested the feasibility of large-scale feedback collection across different use cases, such as:
-
-- Identifying beneficiaries for government schemes like old-age pensions.
-- Assessing the impact of monsoon floods in regions like Assam.
-- Verifying the satisfaction levels of beneficiaries of programs like Ayushman Bharat.
-- Understanding user behavior in Tier 2/3 cities for mobile commerce providers.
-
-### Key Highlights from the Cohort:
-
-- **12 Organizations** were selected from **40 applications** (Non-profit: 5, For-profit: 7).
-- **1000+ Calls** were made, gathering real-time feedback across diverse use cases.
-- **8 Infrastructure Providers** were onboarded to deliver multilingual capabilities.
-- **Insights**: The pilot revealed critical learnings about language support, technology challenges, and best practices to increase call success rates, especially in Hindi and English.
-
-### Next Steps for the Cohort:
-
-- Focus on scaling to reach **1 million calls** across multiple languages.
-- Partner with state governments to integrate **JKB** into public service delivery.
-- Continue refining the AI system to support more regional dialects and improve user engagement.
-
----
 
 ## Volunteer with Us
 
