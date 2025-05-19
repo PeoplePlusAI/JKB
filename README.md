@@ -58,7 +58,7 @@ Join us by filling out the [volunteer form](https://peopleplus.ai/volunteer) and
 
 If you have any queries or new ideas regarding this project, please create an issue in this repository. Let's have a discussion!
 
-For other queries, please reach out to [Shekhar@peopleplus.ai](mailto:Shekhar@peopleplus.ai) or [Aswin@peopleplus.ai](mailto:Santosh@ekstep.org).
+For other queries, please reach out to [Santosh@ekstep.org](mailto:Santosh@ekstep.org) or [Shekhar@peopleplus.ai](mailto:Shekhar@peopleplus.ai)
 
 
 ## Documentation
