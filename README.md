@@ -6,7 +6,6 @@
 
 - [Introduction](#introduction)
 - [Demo Video](#demo-video)
-- [Live Demo](#live-demo)
 - [The Problem](#the-problem)
 - [The Solution](#the-solution)
 - [Cohort Information](#cohort-information)
@@ -27,12 +26,6 @@
 [![Watch the Demo Video](https://img.icons8.com/color/96/youtube-play.png)](https://drive.google.com/file/d/14TP1GBbdv8ysoplDwfwasDbXmuE8WBAJ/view?usp=sharing)  
 *Click the icon above to watch the demo on Google Drive.*
 
----
-
-## Live Demo
-
-📱 **+91 8035735561**  
-Call us to interact with our AI-powered voice bot and explore how the system works in real-time.
 
 ---
 
